@@ -1,0 +1,9111 @@
+[{
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Adanel",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Belemir"
+}, {
+	"birth": "TA 2978",
+	"death": "February 26 ,3019",
+	"gender": "Male",
+	"hair": "Dark (book) Light brown (movie)",
+	"height": null,
+	"name": "Boromir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "March ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Lagduf",
+	"race": "Orcs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 280",
+	"death": "TA 515",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tarcil",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fire-drake of Gondolin",
+	"race": "Dragon",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 2709",
+	"death": "SA 2962",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ar-Adûnakhôr",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Annael",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "FA 455",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Angrod",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Eldalótë"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Angrim",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 3219",
+	"death": "SA 3440",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Anárion",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3118",
+	"death": "Still alive",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Ar-Pharazôn",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Tar-Míriel"
+}, {
+	"birth": "SA 2876",
+	"death": "SA 3102",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ar-Sakalthôr",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 2960",
+	"death": "SA 3177",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ar-Gimilzôr",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Inzilbêth"
+}, {
+	"birth": "TA 2866",
+	"death": "TA 2977",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Angelimir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Angelimar",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Angbor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Perhaps ,Firstborn",
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Nurwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Linda (Baggins) Proudfoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bodo Proudfoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Penlod",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": "Tallest of the Elves of Gondolin",
+	"name": "Pengolodh",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 654",
+	"death": "TA 913",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tarannon Falastur",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Berúthiel"
+}, {
+	"birth": "SA 2277",
+	"death": "SA 2637",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Vanimeldë",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Herucalmo"
+}, {
+	"birth": "SA 1320",
+	"death": "SA 1731",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Telperiën",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "None"
+}, {
+	"birth": "SA 2136",
+	"death": "SA 2526",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Telemmaitë",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 1174",
+	"death": "SA 1574",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Súrion",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3035",
+	"death": "SA 3255",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Palantir",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3117",
+	"death": "SA 3319",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Míriel",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Ar-Pharazôn"
+}, {
+	"birth": "SA 1474",
+	"death": "SA 1873",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Minastir",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 350",
+	"death": "SA 751",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Elendil",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 2516",
+	"death": "SA 2825",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Calmacil",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 1800",
+	"death": "SA 2221",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Atanamir",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 543",
+	"death": "SA 942",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Meneldur",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Almarian"
+}, {
+	"birth": "SA 2618",
+	"death": "SA 2899",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Ardamin",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 1634",
+	"death": "SA 2035",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Ciryatan",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 1003",
+	"death": "SA 1404",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Anárion",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 873",
+	"death": "SA 1285",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Ancalimë",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Hallacar"
+}, {
+	"birth": "SA 1986",
+	"death": "SA 2386",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Ancalimon",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 192",
+	"death": "SA 603",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Amandil",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 2406",
+	"death": "SA 2737",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Alcarin",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Tanta (Hornblower) Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2922",
+	"death": null,
+	"gender": "Female",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Morwen Steelsheen",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Thengel"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Squint-eyed Southerner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 799",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Soronto",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "SA 700",
+	"death": "SA 1098",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tar-Aldarion",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Erendis"
+}, {
+	"birth": "YT, and perhaps Firstborn",
+	"death": "YT 1495",
+	"gender": "Male",
+	"hair": "Black",
+	"height": null,
+	"name": "Finwë",
+	"race": "Elves",
+	"realm": "Tirion,Formenos",
+	"spouse": "Míriel Serindë then ,Indis"
+}, {
+	"birth": "YT 1300",
+	"death": "FA 465",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Finrod",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Loved ,Amarië but they never married"
+}, {
+	"birth": "YT during the ,Noontide of Valinor",
+	"death": "FA 472",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Fingon",
+	"race": "Elves",
+	"realm": "Hithlum",
+	"spouse": null
+}, {
+	"birth": "YT 1190",
+	"death": "FA 455",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Fingolfin",
+	"race": "Elves",
+	"realm": "Hithlum,Beleriand",
+	"spouse": "Anairë"
+}, {
+	"birth": "TA 2950",
+	"death": "TA 2988",
+	"gender": "Female",
+	"hair": "Dark",
+	"height": null,
+	"name": "Finduilas of Dol Amroth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Denethor II"
+}, {
+	"birth": "First Age",
+	"death": "FA 495",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": null,
+	"name": "Finduilas",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None; betrothed to ,Gwindor, but never married."
+}, {
+	"birth": "Years of the Trees",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Findis",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Fourth Age",
+	"death": "sometime after ,FO 172",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Findegil",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT 1230",
+	"death": "Still Alive",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Finarfin",
+	"race": "Elves",
+	"realm": "Tirion",
+	"spouse": "Eärwen"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Fimbrethil",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2701",
+	"death": "TA 2801",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ferumbras Took II",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": "Brown (film)",
+	"height": null,
+	"name": "Bill Ferny",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2870",
+	"death": "TA 2953",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fengel",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Fastred of Greenholm",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fastred (Pelennor Fields)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2858",
+	"death": "TA 2885",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fastred",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1210",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fastolph Bolger",
+	"race": "Hobbits",
+	"realm": "Shire",
+	"spouse": "Pansy Baggins"
+}, {
+	"birth": "TA 2560",
+	"death": "TA 2803",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Farin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,Third Age",
+	"death": "TA 1944",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Faramir (son of Ondoher)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2983",
+	"death": "February 26 ,82",
+	"gender": "Male",
+	"hair": "Raven",
+	"height": null,
+	"name": "Faramir",
+	"race": "Men",
+	"realm": "Minas Ithil",
+	"spouse": "owyn"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Falathar",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Elfstan Fairbairn",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "February 293019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Snaga (Two Towers orc)",
+	"race": "Orcs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Snaga",
+	"race": "Orcs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, first appeared in ,TA 2770",
+	"death": "November 1 ,TA 2941",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Smaug",
+	"race": "Dragons",
+	"realm": "Lonely Mountain",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Seers",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Robin Smallburrow",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 570",
+	"death": "TA 830",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Siriondil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 521",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Silmariën",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Elatan"
+}, {
+	"birth": "Unknown, possibly during the ,First Age",
+	"death": "Unknown, possibly TA 3019",
+	"gender": "Female",
+	"hair": null,
+	"height": "Large and immense",
+	"name": "Shelob",
+	"race": "Great Spiders",
+	"realm": "Torech Ungol",
+	"spouse": null
+}, {
+	"birth": "TA 2050",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": "7'1",
+	"name": "Shagrat",
+	"race": "Black Uruk",
+	"realm": "Cirith Ungol",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "TA 2000",
+	"gender": "Male",
+	"hair": "None",
+	"height": null,
+	"name": "Scatha",
+	"race": "Dragons",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "March 25 ,3019",
+	"gender": "Male",
+	"hair": "Various ",
+	"height": "Various until ",
+	"name": "Sauron",
+	"race": "Maiar",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "3 November ,3019",
+	"gender": "Male",
+	"hair": "White",
+	"height": null,
+	"name": "Saruman",
+	"race": "Maiar",
+	"realm": "Isengard,Nan Curunír",
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Saradoc Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Salmar",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1308",
+	"death": "SR 1407",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Saradas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid-,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Sangahyando",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2920",
+	"death": "FO 50",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ted Sandyman",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Sandyman",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Fate officially unknown",
+	"gender": "Male",
+	"hair": null,
+	"height": "Short",
+	"name": "Salgant",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Sagroth",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "FA 484",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Saeros",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Fourth Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Saelon",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "about ,FA 430",
+	"death": "FA 495",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Sador",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None known"
+}, {
+	"birth": "SR 1179",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Sadoc Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2964",
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": "Sandy",
+	"height": "1.22m (4'0\") ",
+	"name": "Lotho Sackville-Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2918",
+	"death": "TA 3020",
+	"gender": "Female",
+	"hair": null,
+	"height": "1.17m (3'10\")",
+	"name": "Lobelia Sackville-Baggins",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Otho Sackville-Baggins"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Camellia (Sackville) Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1126",
+	"death": "TA 1366",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rómendacil II",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rúmil (Noldo)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 310",
+	"death": "TA 541",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rómendacil I",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "c. T.A. 2328",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Rían (Gondor)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed husband"
+}, {
+	"birth": "FA 450",
+	"death": "FA 473",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Rían",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Huor"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rufus Burrows",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Asphodel Brandybuck"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ruffian Leader",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rúmil of Lórien",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Rudolph Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1255",
+	"death": "SR 1348",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rudigar Bolger",
+	"race": "Hobbits",
+	"realm": "Bree",
+	"spouse": "Belba Baggins"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ruby Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2788",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Roäc",
+	"race": "Raven",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2849",
+	"death": "Late ,Third Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rowan Greenhand",
+	"race": "Hobbits",
+	"realm": "Shire",
+	"spouse": "Belba Baggins"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Andwise Roper",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rog",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "River-woman",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ragnor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ragnir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Radhruin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Radbug",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "None",
+	"gender": "Male",
+	"hair": "Brown-gray (films)",
+	"height": null,
+	"name": "Radagast",
+	"race": "Maiar",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Olo Proudfoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Sancho Proudfoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2904",
+	"death": "TA 3005",
+	"gender": "Male",
+	"hair": "Brown Gray (movie)",
+	"height": null,
+	"name": "Odo Proudfoot",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Mrs. Proudfoot"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Mrs. Proudfoot",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Odo Proudfoot"
+}, {
+	"birth": null,
+	"death": "FA 486",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Khîm",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Second Age",
+	"death": null,
+	"gender": "Male",
+	"hair": "White",
+	"height": null,
+	"name": "Khamûl",
+	"race": "Men,Wraith",
+	"realm": "Rhûn,Dol Guldur,Sauron",
+	"spouse": null
+}, {
+	"birth": "TA 2947",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Ivriniel",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2857",
+	"death": "TA 2929",
+	"gender": "Female",
+	"hair": "Brown (film)",
+	"height": null,
+	"name": "Ivorwen",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Dírhael"
+}, {
+	"birth": "SA 532",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Isilmë",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "After ,SA 1320",
+	"death": "Before ,SA 1731",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isilmo",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3209",
+	"death": "TA 2",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Very tall almost 7'1",
+	"name": "Isildur",
+	"race": "Men",
+	"realm": "Arnor,Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2832",
+	"death": "TA 2930",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isengrim Took III",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Not married"
+}, {
+	"birth": "TA 2842",
+	"death": "TA 2946",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isembold Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife "
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Irmo",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Estë"
+}, {
+	"birth": "b. ,TA 2990",
+	"death": "Early-,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Iorlas",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Ioreth",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Second Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Inzilbêth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Ar-Gimilzôr"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Inigo Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "Unknown, probably still alive",
+	"gender": "Male",
+	"hair": "Probably Golden",
+	"height": null,
+	"name": "Ingwion",
+	"race": "Elf",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT, and perhaps firstborn",
+	"death": "Still Alive",
+	"gender": "Male",
+	"hair": "Probably Golden",
+	"height": "Tall",
+	"name": "Ingwë",
+	"race": "Elves",
+	"realm": "Valinor,Taniquetil",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ingold",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 495",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Indor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "Still Alive",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Indis",
+	"race": "Elves",
+	"realm": "Tirion",
+	"spouse": "Finwë"
+}, {
+	"birth": "TA 1950",
+	"death": "TA 2076",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Imrazôr",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Mithrellas"
+}, {
+	"birth": "TA 2955",
+	"death": "FO 34",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Tall",
+	"name": "Imrahil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "around FA 325",
+	"death": "First Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Imlach",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Unknown, Awakened in the ,Years of the Trees",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Iminyë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Imin"
+}, {
+	"birth": "Unknown, Awakened in the ,Years of the Trees",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Imin",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Iminyë"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": "Varies, White ",
+	"height": "Varies",
+	"name": "Eru Ilúvatar",
+	"race": "God",
+	"realm": "Timeless Halls",
+	"spouse": "None"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Ilmarë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT 1469",
+	"death": "Still Alive",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Idril",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Tuor"
+}, {
+	"birth": null,
+	"death": "FA 489",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ibûn",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unknown, possibly none"
+}, {
+	"birth": "Mid-,Third Age",
+	"death": "Mid-,Third Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Húrin of Emyn Arnen",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2515",
+	"death": "TA 2628",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Húrin II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2124",
+	"death": "TA 2244",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Húrin I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 441",
+	"death": "FA 502",
+	"gender": "Male",
+	"hair": "Golden, grey (in old age)",
+	"height": null,
+	"name": "Húrin",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Morwen Eledhwen"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Winter of ,TA 2759",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Háma (Helm's son)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2975",
+	"death": "March 3, or ,4 ,3019",
+	"gender": "Male",
+	"hair": "Reddish brown (movie)",
+	"height": null,
+	"name": "Háma",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, possibly none"
+}, {
+	"birth": "TA 1391",
+	"death": "TA 1621",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hyarmendacil II",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 899",
+	"death": "TA 1149",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hyarmendacil I",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Hurin (Warden of the Keys)",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 442",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": "Tallest of all mortal men save his son Tuor only",
+	"name": "Huor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Rían"
+}, {
+	"birth": "Late ,FA",
+	"death": "FA 499",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hunthor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hundar",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,FA",
+	"death": "Mid FA ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hundad",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "First Age",
+	"death": "FA 466",
+	"gender": "Male",
+	"hair": null,
+	"height": "Horse-sized",
+	"name": "Huan",
+	"race": "Wolfhound",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Tobold Hornblower",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Late ,TA 3018",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tobias Hornblower",
+	"race": "Hobbits",
+	"realm": "Shire",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Tanta Hornblower",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Possibly late ,Third Age",
+	"death": "March 15 ,TA 3019",
+	"gender": "Male",
+	"hair": "Blond (Video game)",
+	"height": null,
+	"name": "Horn",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eönwë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "FA 400",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Eöl",
+	"race": "Elves",
+	"realm": "Nan Elmoth",
+	"spouse": "Aredhel"
+}, {
+	"birth": "Years of the Trees",
+	"death": "Still alive",
+	"gender": "Female",
+	"hair": "Star-like ",
+	"height": null,
+	"name": "Eärwen",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Finarfin"
+}, {
+	"birth": "TA 1928",
+	"death": "TA 2050",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärnur",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "None"
+}, {
+	"birth": "TA 1883",
+	"death": "TA 2043",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärnil II",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 736",
+	"death": "TA 936",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärnil I",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 361",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärendur of Númenor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 640",
+	"death": "TA 861",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärendur of Arnor",
+	"race": null,
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Second Age",
+	"death": "Late Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärendur (Lord of Andúnië)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 48",
+	"death": "TA 324",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eärendil of Gondor",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 503",
+	"death": "Still Alive",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Eärendil",
+	"race": "Half-elven",
+	"realm": null,
+	"spouse": "Elwing"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Estë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Irmo"
+}, {
+	"birth": "Late ,Second Age",
+	"death": "Early ,Third Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Estelmo",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Erkenbrand",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Erestor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 771",
+	"death": "SA 985",
+	"gender": "Female",
+	"hair": "Dark",
+	"height": null,
+	"name": "Erendis",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Tar-Aldarion"
+}, {
+	"birth": "unknown",
+	"death": "unknown",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Erellont",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "unknown"
+}, {
+	"birth": "TA 2990",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Erchirion",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1999",
+	"death": "TA 2116",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eradan",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2995",
+	"death": "FO",
+	"gender": "Female",
+	"hair": "Pale gold",
+	"height": "Tall",
+	"name": "owyn",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Faramir"
+}, {
+	"birth": "TA 2485",
+	"death": "TA 2545",
+	"gender": "Male",
+	"hair": "Blond",
+	"height": null,
+	"name": "Eorl the Young",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2990",
+	"death": "FO 63",
+	"gender": "Male",
+	"hair": "Dirty blond",
+	"height": "Tall-6'6",
+	"name": "omer",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Lothíriel after the War of the Ring"
+}, {
+	"birth": "Unknown, possibly in the ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Enerdhil",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, Awakened in the ,Years of the Trees",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Enelyë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Enel"
+}, {
+	"birth": "Unknown, Awakened in the Years of the Trees",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Enel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Enelyë"
+}, {
+	"birth": "FA 406",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Emeldir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Barahir"
+}, {
+	"birth": "FA 503",
+	"death": "Still Alive",
+	"gender": "Female",
+	"hair": "Dark",
+	"height": null,
+	"name": "Elwing",
+	"race": "Half-elven",
+	"realm": null,
+	"spouse": "Eärendil"
+}, {
+	"birth": "FA 500",
+	"death": "FA 506",
+	"gender": "Male",
+	"hair": "Possibly dark",
+	"height": null,
+	"name": "Eluréd and Elurín",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 532",
+	"death": "SA 442",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elros",
+	"race": "Half-elven",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 532",
+	"death": "Still alive; departed to ,Aman, on ,September 29 ,3021",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Elrond",
+	"race": "Half-elven",
+	"realm": "Rivendell",
+	"spouse": "Celebrían"
+}, {
+	"birth": "TA 2987",
+	"death": "FO 57",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elphir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Elmo",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 130",
+	"death": null,
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Elladan and Elrohir",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 8",
+	"death": "FO 103",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elfwine",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": "TA 2950",
+	"death": "TA 2978",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Elfhild",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Théoden"
+}, {
+	"birth": "TA 2985",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Elfhelm",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "YT 1500",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Elenwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Turgon"
+}, {
+	"birth": "TA 552",
+	"death": "TA 777",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elendur of Arnor",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3299",
+	"death": "TA 2",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elendur",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3119",
+	"death": "SA 3441 ",
+	"gender": "Male",
+	"hair": "Brown",
+	"height": "7' 10\"",
+	"name": "Elendil",
+	"race": "Men",
+	"realm": "Arnor,Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "Presumably still alive",
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Elemmírë (elf)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 510,(presumably)",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elemmakil",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 43",
+	"death": "Before ,FO 220",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Eldarion",
+	"race": "Men",
+	"realm": "Reunited Kingdom,Arnor,Gondor",
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Eldalótë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Angrod"
+}, {
+	"birth": "TA 1255",
+	"death": "TA 1490",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eldacar (King of Gondor)",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 87",
+	"death": "TA 339",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Eldacar (King of Arnor)",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elboron",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early ,Second Age",
+	"death": "Early Second Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Elatan",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Silmariën"
+}, {
+	"birth": "Mid ,First Age",
+	"death": "Between ,FA 455, - ,FA 460",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Eilinel",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Gorlim"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Late Third Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Eglantine (Banks) Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Paladin Took II"
+}, {
+	"birth": null,
+	"death": "FA 538",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Egalmoth (elf)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unknown, possibly none"
+}, {
+	"birth": "TA 2626",
+	"death": "TA 2743",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Egalmoth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "FA 465",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Edrahil",
+	"race": "Elf",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Ecthelion of the Fountain",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2886",
+	"death": "TA 2984",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ecthelion II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2600",
+	"death": "TA 2698",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ecthelion I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Possibly none"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ebor",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dúnhere",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2760",
+	"death": "After ,TA 2941",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Dís",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dírhavel",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2838",
+	"death": "After ,TA 2929",
+	"gender": "Male",
+	"hair": "Brown (film)",
+	"height": null,
+	"name": "Dírhael",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Ivorwen"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Déorwine",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2644",
+	"death": "TA 2718",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Déor",
+	"race": "Men,Rohirrim",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": "Between TA 2400 and ,TA 2430",
+	"death": "TA 2463",
+	"gender": "Male",
+	"hair": "Dark-brown",
+	"height": null,
+	"name": "Déagol",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 3011",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borlas",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borlad",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1879",
+	"death": "TA 1998",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Pelendur",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of Arda",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Pallando",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2910",
+	"death": "TA 3012",
+	"gender": "Male",
+	"hair": null,
+	"height": "1.22m (4'0\")",
+	"name": "Otho Sackville-Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Lobelia Sackville-Baggins"
+}, {
+	"birth": "TA 222",
+	"death": "TA 492",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ostoher",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ossë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Uinen"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Orophin",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "First Age",
+	"death": "SA 3434",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Oropher",
+	"race": "Elves",
+	"realm": "Woodland Realm",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": "Varies",
+	"name": "Oromë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Vána"
+}, {
+	"birth": "SA 382",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Oromendil",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2576",
+	"death": "TA 2685",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Orodreth (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": "FA 495 ,Battle of Tumhalad",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Orodreth",
+	"race": "Elves",
+	"realm": "Nargothrond",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Orleg",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2865",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ori",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Orcobal",
+	"race": "Orcs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Sometime before ,SA 799",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Orchaldor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Ailinel"
+}, {
+	"birth": "TA 1787",
+	"death": "TA 1944",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ondoher",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Possibly Firstborn",
+	"death": "Still Alive",
+	"gender": "Male",
+	"hair": "Silver",
+	"height": null,
+	"name": "Olwë",
+	"race": "Elves",
+	"realm": "Tol Eressëa,Alqualondë",
+	"spouse": "Unnamed Wife"
+}, {
+	"birth": "TA 2923",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Old Noakes",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Old Man Willow",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Second Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ohtar",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early ,Second Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Núneth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Beregar"
+}, {
+	"birth": "Late Second Age ",
+	"death": "SA 3065",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Númendil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Late Third Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Nár",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Náli",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2338",
+	"death": "TA 2585",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Náin II",
+	"race": "Dwarves",
+	"realm": "Grey Mountains",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1832",
+	"death": "TA 1981",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Náin I",
+	"race": "Dwarves",
+	"realm": "Khazad-dûm",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2665",
+	"death": "TA 2799",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Náin (father of Dáin II Ironfoot)",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hob Hayward",
+	"race": "Hobbits",
+	"realm": "Shire",
+	"spouse": null
+}, {
+	"birth": "TA 2846",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hob Gammidge",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Rowan"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Hirluin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Hild",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Hirgon",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 41",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Herumor (Fourth Age)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Second Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Herumor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 2286",
+	"death": "SA 2657",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Herucalmo",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Tar-Vanimeldë"
+}, {
+	"birth": "Late-,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Herubrand",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2037",
+	"death": "TA 2148",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Herion",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hendor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late-,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "Gray",
+	"height": null,
+	"name": "Herefara",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Early ,Second Age",
+	"death": "unknown",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Henderch",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2691",
+	"death": "TA 2759",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Helm Hammerhand",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Mat Heathertoes",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Sometime before ,SA 799",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hatholdir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "F.A. 365",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hathol",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hathaldir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 419",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Hareth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Galdor"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Harding",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 470",
+	"death": "FA 501",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hardang",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "FA 441",
+	"death": "FA 495",
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Handir",
+	"race": "Men",
+	"realm": "Brethil",
+	"spouse": "Beldis"
+}, {
+	"birth": "TA 2760",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hamfast of Gamwich",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Halmir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 711",
+	"death": "Mid ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hallatan",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2480",
+	"death": "TA 2605",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hallas (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 852",
+	"death": "SA 1211",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hallacar",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Tar-Ancalimë"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Winter of ,TA 2758",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Haleth (Helm's son)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 341",
+	"death": "FA 420",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Haleth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Haldir (Lorien)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 413",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Haldir (Haladin)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Glóredhel"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Haldar",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Haldad",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2916",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Tall",
+	"name": "Halbarad",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 390",
+	"death": "FA 455",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Hador",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Gildis"
+}, {
+	"birth": "Late-,Third Age",
+	"death": "February 28 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gárulf",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2245",
+	"death": "TA 2395",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hador (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2767",
+	"death": "March 17 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": "4'5 - 5' (Estimate) ",
+	"name": "Dáin II Ironfoot",
+	"race": "Dwarves",
+	"realm": "Lonely Mountain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2440",
+	"death": "TA 2589",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dáin I",
+	"race": "Dwarves",
+	"realm": "Grey Mountains",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2772",
+	"death": "FO 91",
+	"gender": "Male",
+	"hair": "Brown",
+	"height": null,
+	"name": "Dwalin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "January 253019",
+	"gender": "Male",
+	"hair": "Mane of red flames",
+	"height": "Slightly larger and taller than a Man (book), 20 feet (movie)",
+	"name": "Durin's Bane",
+	"race": "Maiar,Balrog",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 2",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Durin VII",
+	"race": "Dwarves",
+	"realm": "Khazad-dum",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Durin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late-,Third Age",
+	"death": "Early-,Fourth Age",
+	"gender": "Male",
+	"hair": "Dark (Decipher Card)",
+	"height": "Tall",
+	"name": "Duinhir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Duilin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 465",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Draugluin",
+	"race": "Werewolves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 499",
+	"gender": "Males",
+	"hair": null,
+	"height": null,
+	"name": "Dorlas",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2827",
+	"death": null,
+	"gender": "Male",
+	"hair": "Gray (film)",
+	"height": null,
+	"name": "Dori",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dodinas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2328",
+	"death": "TA 2435",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dior (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Possibly none"
+}, {
+	"birth": "FA 470, ",
+	"death": "FA 506, ",
+	"gender": "Male",
+	"hair": "Possibly dark",
+	"height": null,
+	"name": "Dior",
+	"race": "Half-elven",
+	"realm": "Doriath",
+	"spouse": "Nimloth"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Dina Diggle",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1316",
+	"death": "SR 1410",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dinodas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2995",
+	"death": "Before ,FO 63",
+	"gender": "Female",
+	"hair": "Brown (film)",
+	"height": null,
+	"name": "Diamond Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Peregrin Took"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dervorin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Mid ,March ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Derufin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2930",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "Dark, grey (in old age)",
+	"height": null,
+	"name": "Denethor II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Finduilas"
+}, {
+	"birth": "TA 2375",
+	"death": "TA 2477",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Denethor I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": "YT 1497",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Denethor (First Age)",
+	"race": "Elves",
+	"realm": "Ossiriand",
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Damrod",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Daisy Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dairuin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Male",
+	"hair": "Dark ",
+	"height": null,
+	"name": "Daeron",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "YT, 1050. Age = 11,484.9 Sun Years or 1,198.6 Valian Years as of FO 121 (death of Arwen).",
+	"death": "Still alive, sailed into the ,West, sometime during the ,Fourth Age last of all elves to leave ,Middle-earth,.",
+	"gender": "Male",
+	"hair": "Silver, bearded",
+	"height": "Very tall",
+	"name": "Círdan",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Presumably none"
+}, {
+	"birth": "During the ,Noontide of Valinor",
+	"death": "FA 506",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Curufin",
+	"race": "Elves",
+	"realm": "Himlad",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2238",
+	"death": "TA 2488",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "in (King of Durin's Folk)",
+	"race": "Men",
+	"realm": "Grey Mountains",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2774",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "in",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": "Various",
+	"name": "mar",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Early ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "bal",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "rimë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 700",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "rildë",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "othain",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2961",
+	"death": "TA 3002",
+	"gender": "Male",
+	"hair": "Blond",
+	"height": null,
+	"name": "omund",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Théodwyn"
+}, {
+	"birth": "c. ,TA 2544",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "ofor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Early ,Second Age",
+	"death": "Early Second Age ",
+	"gender": "Female",
+	"hair": "White or grey",
+	"height": null,
+	"name": "Zamîn",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 371",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Yávien",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": "Varies",
+	"name": "Yavanna",
+	"race": "Ainur",
+	"realm": "Pastures of Yavanna",
+	"spouse": "Aulë"
+}, {
+	"birth": "Late-,Third Age",
+	"death": "Early-,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Wídfara",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 2759",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Wulf I",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borlach",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2450",
+	"death": "TA 2711",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borin",
+	"race": "Dwarven",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2834",
+	"death": null,
+	"gender": "Male",
+	"hair": "Ginger",
+	"height": null,
+	"name": "Bombur",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, before the coming of Melkor",
+	"death": "Unknown, possibly immortal",
+	"gender": "Male",
+	"hair": "Brown",
+	"height": null,
+	"name": "Tom Bombadil",
+	"race": null,
+	"realm": "Old Forest",
+	"spouse": "Goldberry"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Wilimar Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2904",
+	"death": "TA 3000",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Wilibald Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Prisca Baggins"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Theobald Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Rudibert Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2938",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Rosamunda (Took) Bolger",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Odovacar Bolger"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Prisca (Baggins) Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2935",
+	"death": "FO 10",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Odovacar Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Rosamunda Took"
+}, {
+	"birth": "TA 2897",
+	"death": "Late ,Third Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Jessamine (Boffin) Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Herugar Bolger"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gundahar Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2980",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fredegar Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "unknown, possibly unmarried"
+}, {
+	"birth": "TA 2942",
+	"death": "FO 22",
+	"gender": "Male",
+	"hair": "Brown (movie)",
+	"height": null,
+	"name": "Filibert Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Poppy Chubb-Baggins"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Adalgar Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "TA 2941",
+	"gender": "Male",
+	"hair": "None",
+	"height": "8,4  Body weight = 190kg",
+	"name": "Bolg",
+	"race": "Goblin,Orc",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Boldog (Character)",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2843",
+	"death": null,
+	"gender": "Male",
+	"hair": "Dark Brown (films)",
+	"height": null,
+	"name": "Bofur",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Uffo Boffin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2988",
+	"death": "Early-,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tosto Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2860",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Rollo Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Lavender Grubb"
+}, {
+	"birth": "TA 2812",
+	"death": "TA 2900",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Otto Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Lavender Grubb"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Lavender (Grubb) Boffin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2894",
+	"death": "TA 2986",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Jago Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Late Third Age ",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Ivy (Goodenough) Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Buffo Boffin"
+}, {
+	"birth": "TA 2854",
+	"death": "TA 2945",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hugo Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Donnamira Took"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gruffo Boffin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2946",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Griffo Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Daisy Baggins"
+}, {
+	"birth": "TA 2904",
+	"death": "TA 3004",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Gerda (Boffin) Bolger",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Adalbert Bolger"
+}, {
+	"birth": "TA 2978",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Folco Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "before ,TA 2860",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Druda Burrows Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Rollo Boffin"
+}, {
+	"birth": "TA 2950",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Daisy (Baggins) Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Griffo Boffin"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Late ,Third Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Buffo Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Ivy Goodenough"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Briffo Boffin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2767",
+	"death": "TA 2858",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bosco Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2769",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Basso Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2856",
+	"death": "TA 2948",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Donnamira (Took) Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Hugo Boffin"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bodruith",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bob",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1560",
+	"death": "Sometime after ,TA 1601",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Blanco",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Late Third Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bladorthin",
+	"race": "Men",
+	"realm": "Lake-town,Dale,Rhûn,Dorwinion",
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Black Serpent",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bilbo Gardner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "22 September ,TA 2890",
+	"death": "Unknown (Last sighting 29 SeptemberTA 3021,) (,SR 1421,)",
+	"gender": "Male",
+	"hair": "Brown, later white",
+	"height": "1.25m (4'1\")",
+	"name": "Bilbo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2814",
+	"death": "UnknownFourth Age",
+	"gender": "Male",
+	"hair": "Black/ Grey (film)",
+	"height": "4'5\" (film)",
+	"name": "Bifur",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early  ,Third Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Berúthiel",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Tarannon Falastur"
+}, {
+	"birth": "TA 3009",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bergil",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2655",
+	"death": "TA 2763",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beren (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 432",
+	"death": "FA 466",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Beren",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Lúthien Tinúviel"
+}, {
+	"birth": "Early ,Fourth Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Berelach",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beren (Belemir's son)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2837",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Nori",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 222",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Nolondil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Nob",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 473",
+	"death": "FA 499",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Niënor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Túrin Turambar"
+}, {
+	"birth": "SR 1261",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Nina Lightfoot",
+	"race": "Hobbits",
+	"realm": "Shire",
+	"spouse": "Theobald Bolger"
+}, {
+	"birth": "YT",
+	"death": "TA 1981",
+	"gender": "Female",
+	"hair": "Possibly golden",
+	"height": null,
+	"name": "Nimrodel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Loved ,Amroth"
+}, {
+	"birth": "Unknown, possibly sometime during the ,Years of the Trees",
+	"death": "FA 506",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Nimloth (elf)",
+	"race": "Elves",
+	"realm": "Doriath",
+	"spouse": "Dior Eluchíl"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Nienna",
+	"race": "Ainur",
+	"realm": "Valinor,Halls of Nienna",
+	"spouse": "None"
+}, {
+	"birth": "unknown",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": "Various",
+	"name": "Nielíqui",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "SA 840",
+	"death": "Mid ,Second Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Nessanië",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": "Varies",
+	"name": "Nessa",
+	"race": "Ainur",
+	"realm": "Valinor",
+	"spouse": "Tulkas"
+}, {
+	"birth": "YT, during the ,Noontide of Valinor",
+	"death": "Still alive",
+	"gender": "Female",
+	"hair": "Reddish brown",
+	"height": null,
+	"name": "Nerdanel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Fëanor"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Nellas",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Nauglath",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Narvi",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 503",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Naugladur",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1684",
+	"death": "TA 1856",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Narmacil II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1049",
+	"death": "TA 1294",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Narmacil I",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unknown, possibly none as he had no children"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Nahar",
+	"race": "Horse",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Mûmakil",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early ,First Age",
+	"death": "FA 502",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mîm",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "March ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Muzgash",
+	"race": "Orc",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "YT 1170",
+	"gender": "Female",
+	"hair": "Silver",
+	"height": null,
+	"name": "Míriel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Finwë"
+}, {
+	"birth": "First Age",
+	"death": "Probably died on ,March 25TA 3019, during destruction of ,Mordor",
+	"gender": "Male",
+	"hair": "Most likely black or none",
+	"height": "6' 7\" (2.01 m)",
+	"name": "Mouth of Sauron",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "The Moth",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Perhaps ,Firstborn",
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Morwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late 26th century ,Third Age",
+	"death": "Late ,Third Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Morwen (Gondor)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed husband"
+}, {
+	"birth": "FA 443",
+	"death": "FA 500",
+	"gender": "Female",
+	"hair": "Dark, grey in old age",
+	"height": "Tall",
+	"name": "Morwen",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Húrin Thalion"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Mithrellas",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Imrazôr"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Minastan",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1454",
+	"death": "TA 1634",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Minardil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,Third Age",
+	"death": "July 13 ,1944",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Minohtar",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1381",
+	"death": "Early-,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Merimas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "Unknown, presumably still alive",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Meril-i-Turinqi",
+	"race": "Elves",
+	"realm": "Tol Eressëa",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Meneldor",
+	"race": "Eagles",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 3318",
+	"death": "TA 158",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Meneldil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Men",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Any size by choice",
+	"name": "Melkor",
+	"race": "Ainur",
+	"realm": "Utumno,Angband,Middle-earth,Beleriand",
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Did not die being a ,Maia returned to ,Valinor, after the death of her husband Thingol",
+	"gender": "Female",
+	"hair": "Dark",
+	"height": null,
+	"name": "Melian",
+	"race": "Ainur",
+	"realm": "Doriath",
+	"spouse": "Thingol"
+}, {
+	"birth": "Around FA 450 ",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Meleth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Agathor"
+}, {
+	"birth": 3019,
+	"death": "February 29 ,3019",
+	"gender": "Male",
+	"hair": "Black (film)",
+	"height": null,
+	"name": "Mauhúr",
+	"race": "Uruk-hai",
+	"realm": "Isengard,Saruman",
+	"spouse": "none"
+}, {
+	"birth": "TA 2890",
+	"death": "TA 2941",
+	"gender": "Male",
+	"hair": "Auburn (film)",
+	"height": "Tall (6'4\")",
+	"name": "Master of Laketown",
+	"race": "Men",
+	"realm": "Lake-town",
+	"spouse": null
+}, {
+	"birth": "SR 1182",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marroc Brandybuck",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SR 1343",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marmadas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid-,Third Age",
+	"death": "Mid-Third Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marhwini",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,Third Age",
+	"death": "TA 1856",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marhari",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1557",
+	"death": "Sometime after ,TA 1601",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marcho",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1960",
+	"death": "TA 2080",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mardil Voronwë",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 282",
+	"death": "FA 376",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Marach",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the Creation of Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Manwë",
+	"race": "Ainur",
+	"realm": "Arda,Valinor",
+	"spouse": "Varda"
+}, {
+	"birth": "After ,SA 61",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Manwendil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Possible unnamed wife"
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Manthor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of Arda",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mandos",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Vairë"
+}, {
+	"birth": "TA 2940",
+	"death": "TA 3015",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gálmód",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Unknown, possibly during the ,First Age",
+	"death": "FA 495",
+	"gender": "Male",
+	"hair": "Became grey in captivity",
+	"height": null,
+	"name": "Gwindor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None, betrothed to ,Finduilas"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gwaihir",
+	"race": "Great Eagles",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "Blond",
+	"height": null,
+	"name": "Guthláf",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 456",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gundor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Guilin",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2563",
+	"death": "TA 2805",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Grór",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2671",
+	"death": "TA 2923",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gróin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 474",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Grithnir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "February 29 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Grishnákh",
+	"race": "Orc",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Grimbold",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, probably several years or so after the ,Battle of Five Armies",
+	"death": "Unknown, early ,Fourth Age",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall (in Man-form)",
+	"name": "Grimbeorn",
+	"race": "Men,Skin-changer",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2862",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Rose Greenhand",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Cotman Cotton"
+}, {
+	"birth": "TA 2810",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Holman Greenhand",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2859",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hending Greenhand",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2851",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Halfred Greenhand",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2854",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Erling Greenhand",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "July ,2941",
+	"gender": "Male",
+	"hair": "Grey/white strands of hair (film)",
+	"height": "About nine feet (film)",
+	"name": "Great Goblin",
+	"race": "Orcs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gorlim",
+	"race": "Men,Wraith",
+	"realm": null,
+	"spouse": "Eilinel"
+}, {
+	"birth": "TA 2668",
+	"death": "TA 2741",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gram",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "March 15, 3019 (film)",
+	"gender": "Male",
+	"hair": "white/gray, possibly light brown (film)",
+	"height": "5'9\" - 6'4\" (film)",
+	"name": "Gothmog (Lieutenant of Morgul)",
+	"race": "Orc",
+	"realm": "Minas Morgul,the Witch-King",
+	"spouse": "None"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gothmog",
+	"race": "Maiar,Balrogs",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gostir",
+	"race": "Dragons",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1134",
+	"death": "SR 1236",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gormadoc \"Deepdelver\" Brandybuck",
+	"race": "Hobbits",
+	"realm": "Buckland",
+	"spouse": "Malva Headstrong"
+}, {
+	"birth": "TA 2274",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gorhendad (Oldbuck) Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gorgol",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2908",
+	"death": "Before ,TA 3001",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gorbulas Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "March 14 ,3019, slain by ,Shagrat",
+	"gender": "Male",
+	"hair": "black",
+	"height": "medium",
+	"name": "Gorbag",
+	"race": "Uruk-hai,Orc",
+	"realm": "Cirith Ungol",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bell (Goodchild) Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Togo Goodbody",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Lily (Baggins) Goodbody",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2430",
+	"death": "March 25 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gollum",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, before ,TA 2700",
+	"death": "TA 2747",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Golfimbul",
+	"race": "Orc,Goblin",
+	"realm": "Mount Gram",
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Hanna (Goldworthy) Brandybuck",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Madoc Brandybuck"
+}, {
+	"birth": "TA 2619",
+	"death": "TA 2699",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Goldwine",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Goldilocks (Gardner) Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Golasgil",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Presumably sometime after ,TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Harry Goatleaf",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 415",
+	"death": "FA 473",
+	"gender": "Female",
+	"hair": "Blonde",
+	"height": null,
+	"name": "Glóredhel",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Haldir"
+}, {
+	"birth": "TA 2136",
+	"death": "TA 2385",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Glóin (King of Durin's Folk)",
+	"race": "Dwarves",
+	"realm": "Grey Mountains",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2783",
+	"death": "FO 15",
+	"gender": "Male",
+	"hair": "Red, later White",
+	"height": null,
+	"name": "Glóin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gléowine",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Possibly ,YT",
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Glorfindel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Unknown, late fifth or sixth century ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Glirhuin",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Presumably after Morgoth's return to Angband",
+	"death": "FA 501",
+	"gender": "Male",
+	"hair": "None",
+	"height": "Gigantic",
+	"name": "Glaurung",
+	"race": "Dragons",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2732",
+	"death": "TA 2770",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Girion",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gimli (Elf)",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2879",
+	"death": "Unknown (Departed to ,Aman ,FO 120,)",
+	"gender": "Male",
+	"hair": "Auburn",
+	"height": null,
+	"name": "Gimli",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 2630",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gimilzagar",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 3044",
+	"death": "SA 3243",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gimilkhâd",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2907",
+	"death": "TA 3007",
+	"gender": "Female",
+	"hair": "Blonde (film)",
+	"height": "Unknown (book) 1.66m (5'5\") (film)",
+	"name": "Gilraen",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Arathorn II"
+}, {
+	"birth": "TA 2000",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Gilmith",
+	"race": "Half-elven",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Presumably still alive",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gilfanon",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Possible sailed West",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Gildor Inglorion",
+	"race": "Elves,Noldor",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gildor (Edain)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 450",
+	"death": "SA 3441",
+	"gender": "Male",
+	"hair": "Possibly golden (book) Dark brown (movie)",
+	"height": "Tall",
+	"name": "Gil-galad",
+	"race": "Elves",
+	"realm": "Havens of Sirion,Lindon",
+	"spouse": null
+}, {
+	"birth": "First Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Gildis",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Hador, Lórindol"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Short",
+	"name": "Ghân-buri-Ghân",
+	"race": "Drúedain",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gelmir (of Angrod's kin)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Robin Gardner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Primrose Gardner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gethron",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gelmir",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Pippin Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Wilcome Cotton",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2941",
+	"death": "FO 20",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tolman Cotton",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Lily Brown"
+}, {
+	"birth": "TA 2984",
+	"death": "FO 61",
+	"gender": "Female",
+	"hair": "Light brown (film)",
+	"height": null,
+	"name": "Rosie Cotton",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Sam Gamgee"
+}, {
+	"birth": "TA 2983",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Marigold (Gamgee) Cotton",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Tolman Cotton"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Lily Cotton",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Farmer Cotton"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Carl Cotton",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2886",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bowman Cotton",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2980",
+	"death": "FO 60",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tolman Cotton Jr.",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Marigold Cotton"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Cottar",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Cora Goodbody",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 3379",
+	"death": "TA 2",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ciryon",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, possibly known"
+}, {
+	"birth": "Mid ,Second Age",
+	"death": "After ,SA 1700",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Tall",
+	"name": "Ciryatur",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 820",
+	"death": "TA 1015",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ciryandil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2449",
+	"death": "TA 2567",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Cirion",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Poppy (Chubb-Baggins) Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2903",
+	"death": "TA 2999",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Falco Chubb-Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ceorl",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 575",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Cemendur (son of Axantur)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3399",
+	"death": "TA 238",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Cemendur",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 979",
+	"death": "TA 1191",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Celepharn",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "During in the ,Noontide of Valinor",
+	"death": "FA 506",
+	"gender": "Male",
+	"hair": "Fair",
+	"height": null,
+	"name": "Celegorm",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Between the years ,SA 350, and SA 400",
+	"death": "Still alive; Departed to ,Aman, in ,TA 2510",
+	"gender": "Female",
+	"hair": "Possibly silver",
+	"height": null,
+	"name": "Celebrían",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Elrond"
+}, {
+	"birth": "TA 1062",
+	"death": "TA 1272",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Celebrindor",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": "SA 1697 ,War of the Elves and Sauron",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Celebrimbor",
+	"race": "Elves",
+	"realm": "Eregion",
+	"spouse": null
+}, {
+	"birth": "YT",
+	"death": "Still alive, departed over the sea in the early Fourth Age",
+	"gender": "Male",
+	"hair": "Silver",
+	"height": "Tall",
+	"name": "Celeborn",
+	"race": "Elves",
+	"realm": "Eregion,Lothlórien,Caras Galadhon",
+	"spouse": "Galadriel"
+}, {
+	"birth": "TA 1259",
+	"death": "TA 1447",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Castamir the Usurper",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the Creation of ,Arda",
+	"death": "FA 466",
+	"gender": "Male",
+	"hair": "Black with red stripes",
+	"height": "Gigantic",
+	"name": "Carcharoth",
+	"race": "Werewolves",
+	"realm": "Angband",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Carc",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "During the ,Noontide of Valinor",
+	"death": "FA 506",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Caranthir",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1058",
+	"death": "TA 1304",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Calmacil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 512",
+	"death": "SA 900",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Caliondo",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Calimmacil",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1736",
+	"death": "TA 1936",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Calimehtar",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bór",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 262",
+	"death": "FA 355",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bëor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": "Brown (movie)",
+	"height": null,
+	"name": "Barliman Butterbur",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Myrtle Burrows",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Mosco Burrows",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2974",
+	"death": "November 3 ,3019",
+	"gender": "Male",
+	"hair": "Black",
+	"height": null,
+	"name": "Gríma Wormtongue",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid-,Second Age",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "Brown, graying, later white",
+	"height": "7' 1\" (2.13 metres)",
+	"name": "Witch-king of Angmar",
+	"race": "Men,Wraith",
+	"realm": "Angmar,Minas Morgul,Osgiliath",
+	"spouse": null
+}, {
+	"birth": "TA 2800",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Wiseman Gamwich",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "Early ,TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Willie Banks",
+	"race": "Hobbits",
+	"realm": "Bree",
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Wife of Barach",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Widow Rumble",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Will Whitfoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Possibly pre First Age",
+	"death": "Unknown; possibly still alive",
+	"gender": "Most likely male",
+	"hair": "None",
+	"height": "Huge",
+	"name": "Watcher in the Water",
+	"race": "Urulóki",
+	"realm": "Doors of Durin",
+	"spouse": "Most likely none"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Warg Matriarch",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2780",
+	"death": "TA 2851",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Walda",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 425",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Vëantur",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Vëannë",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Voronwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None known"
+}, {
+	"birth": "TA 1919",
+	"death": "TA 2029",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Vorondil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before ,TA 1255",
+	"death": "TA 1344",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Vidumavi",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Valacar"
+}, {
+	"birth": "Mid-,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Vidugavia",
+	"race": "Men",
+	"realm": "Rhovanion",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 203",
+	"death": "Early ,Second Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Vardilmë",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 61",
+	"death": "SA 471",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Vardamir Nólimon",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Varda",
+	"race": "Ainur",
+	"realm": "Arda",
+	"spouse": "Manwë"
+}, {
+	"birth": "TA 462",
+	"death": "TA 652",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Valandur",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Early ,Second Age",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Valandil of Andúnië",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 3430",
+	"death": "TA 249",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Valandil",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1194",
+	"death": "TA 1432",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Valacar",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Vidumavi"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Vairë (Elf)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Lindo"
+}, {
+	"birth": "Before the creation of Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Vairë",
+	"race": "Ainur",
+	"realm": "Valinor,Halls of Mandos",
+	"spouse": "Mandos"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Urthel",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Possibly end of ,First Age",
+	"gender": "Female",
+	"hair": null,
+	"height": "Enormous",
+	"name": "Ungoliant",
+	"race": "Great Spiders",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ulwarth",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ulrad",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ulmo",
+	"race": "Ainur",
+	"realm": "Valinor,Ulmonan",
+	"spouse": "None"
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ulfast",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ulfang",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Uldor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Early ,Second Age",
+	"death": "Mid Second Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ulbar",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Uinen",
+	"race": null,
+	"realm": null,
+	"spouse": "Ossë"
+}, {
+	"birth": 3019,
+	"death": "February 293019",
+	"gender": "Male",
+	"hair": "Dark (movie)",
+	"height": "6' 6\" (movie)",
+	"name": "Uglúk",
+	"race": "Uruk-hai",
+	"realm": "Isengard",
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": 3019,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ufthak",
+	"race": "Orc",
+	"realm": "Cirith Ungol",
+	"spouse": "None"
+}, {
+	"birth": "TA 2815",
+	"death": "TA 2914",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Túrin II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2165",
+	"death": "TA 2278",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Túrin I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 464",
+	"death": "FA 499",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Túrin",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Nienor"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Daddy Twofoot",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2855",
+	"death": "TA 2953",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Turgon (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT 1300",
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Turgon",
+	"race": "Elves",
+	"realm": "Nevrast,Gondolin",
+	"spouse": "Elenwë"
+}, {
+	"birth": "TA 397",
+	"death": "TA 667",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Turambar",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 472",
+	"death": "None; sailed into the West and was accounted amongst the Eldar",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Tuor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Idril Celebrindal"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tulkastor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Tulkas",
+	"race": "Ainur",
+	"realm": "Valinor,House of Tulkas",
+	"spouse": "Nessa"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Male",
+	"hair": "Leaf, twig and moss like",
+	"height": "15'4",
+	"name": "Treebeard",
+	"race": "Ents,Onodrim",
+	"realm": null,
+	"spouse": "Fimbrethil"
+}, {
+	"birth": "TA 2890",
+	"death": "TA 2981",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Sigismond Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SR 1256",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Rosa (Baggins) Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Hildigrim Took"
+}, {
+	"birth": "TA 2976",
+	"death": "Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beregond (Captain)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2700",
+	"death": "TA 2811",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beregond",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 340",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bereg",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Before the ,War of the Ring",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Tall",
+	"name": "Beorn",
+	"race": "Skin-changer",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 292",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belen",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 339",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belemir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Adanel"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belegund",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2074",
+	"death": "TA 2204",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belegorn",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 811",
+	"death": "TA 1029",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beleg of Arnor",
+	"race": "Men",
+	"realm": "Arnor,Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "FA 489",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beleg",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2752",
+	"death": "TA 2872",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belecthor II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2545",
+	"death": "TA 2655",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Belecthor I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid-,First Age",
+	"death": null,
+	"gender": "Female",
+	"hair": "Brown",
+	"height": null,
+	"name": "Beldis",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Handir"
+}, {
+	"birth": "FA 316",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Beldir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": "March 3 ,3019",
+	"gender": "Male",
+	"hair": "Leafy-hair",
+	"height": "Very tall",
+	"name": "Beechbone",
+	"race": "Ents",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2985",
+	"death": "Early ,Fourth Age",
+	"gender": "Male",
+	"hair": null,
+	"height": "6'2\"",
+	"name": "Bard II",
+	"race": "Men",
+	"realm": "Dale,Lake-town",
+	"spouse": null
+}, {
+	"birth": "TA 2898",
+	"death": "TA 2977",
+	"gender": "Male",
+	"hair": "Black (films)",
+	"height": null,
+	"name": "Bard",
+	"race": "Men",
+	"realm": "Dale",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 317",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Baranor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 289",
+	"death": "FA 380",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Baran",
+	"race": "Men",
+	"realm": "Estolad",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2290",
+	"death": "TA 2412",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Barahir (Steward)",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Barahir (Fourth Age)",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 402",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": "Possibly dark",
+	"height": null,
+	"name": "Barahir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Emeldir"
+}, {
+	"birth": "FA 420",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Baragund",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2763",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": "White",
+	"height": null,
+	"name": "Balin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Baldor",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Balcmeg",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2925",
+	"death": "TA 3007",
+	"gender": "Male",
+	"hair": "Brown (film)",
+	"height": "1.76m / 5'9\" (film)",
+	"name": "Bain",
+	"race": "Men",
+	"realm": "Dale",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ruby (Bolger) Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2948",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Porto Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2946",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ponto Baggins II",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ponto Baggins I",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2816",
+	"death": "TA 2911",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ponto Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Mimosa Bunce"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Polo Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2950",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Peony (Baggins) Burrows",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Milo Burrows"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Pansy Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Man in the Moon",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1144",
+	"death": "TA 1349",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Malvegil",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Malva \"Headstrong\" Brandybuck",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Gormadoc Brandybuck"
+}, {
+	"birth": "TA 895",
+	"death": "TA 1110",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mallor",
+	"race": "Men",
+	"realm": "Arthedain,Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,Third Age",
+	"death": "Mid Third Age ",
+	"gender": "Male",
+	"hair": "Dark, later grey ",
+	"height": null,
+	"name": "Malbeth the Seer",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, possible none"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Malantur",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Mallor (BOH)",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 307",
+	"death": "FA 398",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Malach",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Meldis"
+}, {
+	"birth": "SA 377",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Mairen",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "UnknownYT",
+	"death": "Still alive",
+	"gender": "Male",
+	"hair": "Brown with copperlike-red",
+	"height": null,
+	"name": "Mahtan",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "F.A. 341",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Magor",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "During the ,Noontide of Valinor",
+	"death": "Fate unknown",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Maglor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2948",
+	"death": null,
+	"gender": "Male",
+	"hair": "Brown",
+	"height": null,
+	"name": "Farmer Maggot",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 320",
+	"death": "FA 510",
+	"gender": "Male",
+	"hair": "Black",
+	"height": "Tall",
+	"name": "Maeglin",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "During the ,Noontide of Valinor",
+	"death": "FA 587",
+	"gender": "Male",
+	"hair": "Dark red",
+	"height": "Tall",
+	"name": "Maedhros",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Mablung the Ranger",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "FA 502",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mablung",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT 1200",
+	"death": "FA 503",
+	"gender": "Female",
+	"hair": "Black",
+	"height": null,
+	"name": "Lúthien",
+	"race": "Elves,Maiar",
+	"realm": null,
+	"spouse": "Beren Erchamion"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Lóni",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2752",
+	"death": "TA 2842",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Brytta Léofa",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2459",
+	"death": "TA 2501",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Léod",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "First Age",
+	"gender": "Male",
+	"hair": "Mane of red flame",
+	"height": null,
+	"name": "Lungorthin",
+	"race": "Balrog",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": " ,3019",
+	"death": "February 293019",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "6'1 (film)",
+	"name": "Lugdush",
+	"race": "Uruk-hai",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2999",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Lothíriel",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "omer"
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Lorgan",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Second Age",
+	"death": "Late Second Age ",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Lindórië",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown husband"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Lindo",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Vairë"
+}, {
+	"birth": "SA 551",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Lindissë",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Possibly departed to ,Aman",
+	"gender": "Male",
+	"hair": "Brown (films)",
+	"height": "Tall",
+	"name": "Lindir",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1313",
+	"death": "Between SR 1401-1418",
+	"gender": null,
+	"hair": null,
+	"height": "3'8'",
+	"name": "Letter 211",
+	"race": null,
+	"realm": null,
+	"spouse": "Lilah Took"
+}, {
+	"birth": "YT",
+	"death": "YT (possibly)",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Lenwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Legolas (elf of Gondolin)",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "Still alive, departed to ,Aman ,FO 120",
+	"gender": "Male",
+	"hair": "Uncertain (book), Blonde (films)",
+	"height": null,
+	"name": "Legolas",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Larnach",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Possibly ,First Age",
+	"death": "Possibly still alive",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Landroval",
+	"race": "Eagle",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 466",
+	"death": "FA 469",
+	"gender": "Female",
+	"hair": "Blonde",
+	"height": null,
+	"name": "Lalaith",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Hamfast Gardner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "March 253021",
+	"death": "Early ,Fourth Age",
+	"gender": "Female",
+	"hair": "Blonde or Golden",
+	"height": null,
+	"name": "Elanor Gardner",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Fastred of Greenholm"
+}, {
+	"birth": "Before the the Shaping of Arda",
+	"death": "January 253019 ,Battle of the Peak immortal",
+	"gender": "Male",
+	"hair": "Grey, later white",
+	"height": null,
+	"name": "Gandalf",
+	"race": "Maiar",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Possibly late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": "Possibly blond",
+	"height": null,
+	"name": "Gamling",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "April 6 ,2980",
+	"death": "Still alive, after going to the ,Undying Lands, in ,FO 61",
+	"gender": "Male",
+	"hair": "Blond (movie)",
+	"height": "1.22m (4'0\")",
+	"name": "Samwise Gamgee",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Rosie Cotton"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Rose Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gamil Zirak",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2976",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "May Gamgee",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2965",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hamson Gamgee",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2926",
+	"death": "FO 7 (SR 1428)",
+	"gender": "Male",
+	"hair": "Brown, later gray",
+	"height": "1.2m (3'11\")",
+	"name": "Hamfast Gamgee",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Bell Goodchild"
+}, {
+	"birth": "TA 2969",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Halfred Gamgee",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 2",
+	"death": "FO ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Frodo Gardner",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2972",
+	"death": "FO 54",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Daisy Gamgee I",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bilbo Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Halfast Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Merry Gamgee",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Galion",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Galdor of the Tree",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": "Golden (movie)",
+	"height": "6'3 (movie)",
+	"name": "Galdor of the Havens",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 417",
+	"death": "FA 462",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "Galdor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Hareth"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Galar",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT 1362",
+	"death": "Still alive: Departed over the sea on ,September 29 ,3021",
+	"gender": "Female",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Galadriel",
+	"race": "Elves",
+	"realm": "Eregion,Lothlórien,Caras Galadhon",
+	"spouse": "Celeborn"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Galathil",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed Wife"
+}, {
+	"birth": "TA 2004",
+	"death": "TA 2129",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Galador",
+	"race": "Half-elven",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Fíriel Fairbairn",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1896",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Fíriel",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Arvedui"
+}, {
+	"birth": "TA 2859",
+	"death": "November 23TA 2941",
+	"gender": "Male",
+	"hair": "Yellow",
+	"height": null,
+	"name": "Fíli and Kíli",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "YT 1169",
+	"death": "YT 1497",
+	"gender": "Male",
+	"hair": "Raven",
+	"height": "Tall",
+	"name": "Fëanor",
+	"race": "Elves",
+	"realm": "Tirion,Formenos",
+	"spouse": "Nerdanel"
+}, {
+	"birth": "TA 2662",
+	"death": "TA 2799",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fundin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Fuithluin",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Second Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fuinur",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2552",
+	"death": "TA 2589",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Frór",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2594",
+	"death": "TA 2680",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fréawine",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": null
+}, {
+	"birth": "TA 2726",
+	"death": "TA 2798",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fréaláf Hildeson",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2570",
+	"death": "TA 2659",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fréa",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "November 102994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Frár",
+	"race": "Dwarf",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1940",
+	"death": "TA 2001",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Frumgar",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2751",
+	"death": "TA 2799",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Frerin",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2698",
+	"death": "TA 2754",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Freca",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1967",
+	"death": "Unknown, sometime after ,TA 2000",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fram",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, probably as he had descendants"
+}, {
+	"birth": "Late ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": "Fair",
+	"height": null,
+	"name": "Forweg",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, probably none"
+}, {
+	"birth": "TA 2745",
+	"death": "TA 2848",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fortinbras Took I",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid ,Third Age",
+	"death": "TA 1944",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Forthwini",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unknown, but possible since he had descendants"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Forlong",
+	"race": "Men",
+	"realm": null,
+	"spouse": "unknown"
+}, {
+	"birth": "TA 2830",
+	"death": "TA 2903",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Folcwine",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2858",
+	"death": "TA 2885",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Folcred",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2804",
+	"death": "TA 2864",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Folca",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": "TA 2994",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Flói",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Fladrif",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Moro Burrows",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2996",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Minto Burrows",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1347",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Milo Burrows",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Peony Baggins"
+}, {
+	"birth": "TA 1930",
+	"death": "TA 2031",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bucca of the Marish",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Broncho Stonecrow",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2857",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Sapphira (Brockhouse) Boffin",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Uffo Boffin"
+}, {
+	"birth": "Mid ,First Age",
+	"death": "Late First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bregor",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2913",
+	"death": "TA 3012",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Asphodel (Brandybuck) Burrows",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Rufus Burrows"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Brodda",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 455",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bregolas",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2512",
+	"death": "TA 2570",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Brego",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2519",
+	"death": null,
+	"gender": "Male",
+	"hair": "Leafy-hair",
+	"height": null,
+	"name": "Bregalad",
+	"race": "Ents",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Salvia (Brandybuck) Bolger",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Rorimac Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2920",
+	"death": "TA 2980",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Primula (Brandybuck) Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Drogo Baggins"
+}, {
+	"birth": "TA 2860",
+	"death": "TA 2960",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Mirabella (Took) Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Gorbadoc Brandybuck"
+}, {
+	"birth": "TA 2948",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Seredic Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Hilda Bracegirdle"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Merimac Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Orgulas Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2982",
+	"death": "FO 65",
+	"gender": "Male",
+	"hair": "Golden yellow (film)",
+	"height": "1.38m (4'6\")",
+	"name": "Meriadoc Brandybuck",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Estella (Bolger) Brandybuck"
+}, {
+	"birth": "TA 2983",
+	"death": "Early-,Fourth Age",
+	"gender": "Female",
+	"hair": "Dark Brown",
+	"height": null,
+	"name": "Mentha Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1385",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Melilot Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1175",
+	"death": "SR 1277",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Madoc Brandybuck",
+	"race": "Hobbit",
+	"realm": "Buckland",
+	"spouse": "Hanna Goldworthy"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ilberic Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Gorbadoc Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Marmadoc Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2985",
+	"death": "Before ,FO 63",
+	"gender": "Female",
+	"hair": "Dark Blonde",
+	"height": null,
+	"name": "Estella (Bolger) Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Meriadoc Brandybuck"
+}, {
+	"birth": "TA 2954",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Hilda Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Seredic Brandybuck"
+}, {
+	"birth": "TA 2936",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Esmeralda Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Saradoc Brandybuck"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Doderic Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2994",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Celandine Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Berilac Brandybuck",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2904",
+	"death": "TA 2998",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Amaranth Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2818",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Adaldrida (Bolger) Brandybuck",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Marmadoc Brandybuck"
+}, {
+	"birth": "First Age",
+	"death": "FA 499",
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Brandir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2957",
+	"death": "March 17 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Brand",
+	"race": "Men",
+	"realm": "Dale,Laketown",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2865",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Primrose Bracegirdle",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Blanco Bracegirdle"
+}, {
+	"birth": "TA 2913",
+	"death": "TA 3010",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bruno Bracegirdle",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2865",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Blanco Bracegirdle",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Primrose Boffin"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borthand",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": "April 15 ,2510",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Borondir",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "First Age",
+	"death": "First Age ",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Boron",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2410",
+	"death": "TA 2489",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Boromir (Steward)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 338",
+	"death": "FA 432",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Boromir (House of Bëor)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Reginard Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Pimpernel Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Pervinca Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2990",
+	"death": "FO 65",
+	"gender": "Male",
+	"hair": "Almost golden",
+	"height": "1.34m (4'5\")",
+	"name": "Peregrin Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Diamond of Long Cleeve"
+}, {
+	"birth": "TA 2975",
+	"death": "before ,FO 63",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Pearl Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2933",
+	"death": "FO 13",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Paladin Took II",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Eglantine Banks"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Lalia (Clayhanger) Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2847",
+	"death": "TA 2946, (SR 1346",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isembard Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SR 1240",
+	"death": "SR 1341",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hildigrim Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Rosa Baggins"
+}, {
+	"birth": "TA 2844",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hildifons Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2849",
+	"death": "TA 2934",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Hildibrand Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2790",
+	"death": "TA 2920",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Gerontius Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Adamanta Chubb"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Flambard Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ferdinand Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2916",
+	"death": "TA 3015",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ferumbras III Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2928",
+	"death": "FO 2",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Adelard Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2817",
+	"death": "TA 2923",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Adamanta (Chubb) Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Gerontius \"The Old\" Took"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Ferdibrand Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2880",
+	"death": "TA 2982",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Adalgrim Took",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Everard Took",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2701",
+	"death": "TA 2800",
+	"gender": "Male",
+	"hair": null,
+	"height": "1.35m (4'5\")",
+	"name": "Bandobras Took",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": "Unnamed wife "
+}, {
+	"birth": "TA 2666",
+	"death": "TA 2759",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isumbras Took III",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2620",
+	"death": "TA 2722",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isengrim Took II",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2878",
+	"death": "TA 2980",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Fortinbras Took II",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Lalia Clayhanger"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Tolman Gardner",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2295",
+	"death": "TA 2398",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Isumbras Took I",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FO 10",
+	"death": "FO 112",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Faramir Took I",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Goldilocks Gardner"
+}, {
+	"birth": "Third Age, or before",
+	"death": null,
+	"gender": "Male",
+	"hair": "None",
+	"height": "About 13'",
+	"name": "Tom, Bert, and William",
+	"race": "Stone-trolls",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "After ,SA 61",
+	"death": "Early ,Second Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tindómiel",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Tim",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": " ",
+	"height": null,
+	"name": "Tilion",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Théodwyn",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2978",
+	"death": "February 25 ,3019",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Théodred",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2948 ,Gondor",
+	"death": "March 15 ,3019",
+	"gender": "Male",
+	"hair": "White with braids (book) Blonde (films)",
+	"height": "Tall",
+	"name": "Théoden",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Elfhild"
+}, {
+	"birth": null,
+	"death": "FA 465",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Thuringwethil",
+	"race": "Vampire",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2542",
+	"death": "TA 2790",
+	"gender": "Male",
+	"hair": "Grey-white",
+	"height": null,
+	"name": "Thrór",
+	"race": "Dwarves",
+	"realm": "Grey Mountains,Lonely Mountain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2644",
+	"death": "TA 2850",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thráin II",
+	"race": "Dwarves",
+	"realm": "Lonely Mountain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "First Age",
+	"death": "Presumably departed to ,Aman",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": "Tall",
+	"name": "Thranduil",
+	"race": "Elves",
+	"realm": "Woodland Realm,Mirkwood",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the Creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": 30,
+	"name": "Thorondor",
+	"race": "Great Eagles",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 1934",
+	"death": "TA 2190",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thráin I",
+	"race": "Dwarves",
+	"realm": "Khazad-dûm",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2782",
+	"death": "TA 2882",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thorondir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2866",
+	"death": "FO 137,(aged 280)",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thorin III Stonehelm",
+	"race": "Dwarves",
+	"realm": "Lonely Mountain,Iron Hills",
+	"spouse": null
+}, {
+	"birth": "TA 2746",
+	"death": "November 23, TA 2941",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thorin II Oakenshield",
+	"race": "Dwarves",
+	"realm": "Ered Luin",
+	"spouse": null
+}, {
+	"birth": "TA 2035",
+	"death": "TA 2289",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thorin I",
+	"race": "Dwarves",
+	"realm": "Lonely Mountain,Grey Mountains",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT 1050",
+	"death": "FA 502",
+	"gender": "Male",
+	"hair": "Silver",
+	"height": "Tallest of the Elven-folk, 8'2\"",
+	"name": "Thingol",
+	"race": "Elves",
+	"realm": "Doriath",
+	"spouse": "Melian"
+}, {
+	"birth": "TA 2905",
+	"death": "TA 2980",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Thengel",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Morwen Steelsheen"
+}, {
+	"birth": "Second Age",
+	"death": "Sometime after the ,War of the Last Alliance",
+	"gender": "Male",
+	"hair": null,
+	"height": "Tall",
+	"name": "The King of the Dead",
+	"race": "Men,Undead",
+	"realm": "White Mountains,Paths of the Dead",
+	"spouse": null
+}, {
+	"birth": "TA 1516",
+	"death": "TA 1636",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Telemnar",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "First Age",
+	"death": "First Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Telchar",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Unknown, awakened in the ,Years of the Trees",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Tatië",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Tata"
+}, {
+	"birth": "TA 1632",
+	"death": "TA 1850",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Telumehtar",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Unknown, awakened in the ,Years of the Trees",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tata",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Tatië"
+}, {
+	"birth": "TA 372",
+	"death": "TA 602",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tarondor of Arnor",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Targon",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Mimosa (Bunce) Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2860",
+	"death": "TA 2950",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Longo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Camellia (Sackville) Baggins"
+}, {
+	"birth": "TA 2814",
+	"death": "TA 2916",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Laura (Grubb) Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Mungo Baggins"
+}, {
+	"birth": "TA 1577",
+	"death": "TA 1798",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tarondor",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "After ,TA 654",
+	"death": "Before ,TA 913",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Tarciryan",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2807",
+	"death": "TA 2900",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Mungo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Laura Grubb"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Largo Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "22 September ,TA 2968",
+	"death": "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+	"gender": "Male",
+	"hair": "Brown",
+	"height": "1.06m (3'6\")",
+	"name": "Frodo Baggins",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2864",
+	"death": "TA 2960",
+	"gender": "male",
+	"hair": null,
+	"height": null,
+	"name": "Fosco Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Ruby Bolger"
+}, {
+	"birth": "TA 2911",
+	"death": "TA 3009",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Dudo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2908",
+	"death": "TA 2980",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Drogo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Primula Brandybuck"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Dora Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Bingo Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Chica (Chubb) Baggins",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2846",
+	"death": "TA 2926",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Bungo Baggins",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 2772",
+	"death": "TA 2871",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Berylla (Boffin) Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Balbo Baggins"
+}, {
+	"birth": "TA 2852",
+	"death": "TA 2934",
+	"gender": "Female",
+	"hair": "Black",
+	"height": null,
+	"name": "Belladonna (Took) Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Bungo Baggins"
+}, {
+	"birth": "TA 2767",
+	"death": "TA 2858",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Balbo Baggins",
+	"race": "Hobbits",
+	"realm": null,
+	"spouse": "Berylla (Boffin) Baggins"
+}, {
+	"birth": "TA 2981",
+	"death": "Early-,Fourth Age",
+	"gender": "Female",
+	"hair": "Blonde",
+	"height": null,
+	"name": "Angelica Baggins",
+	"race": "Hobbit",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "TA 2799",
+	"gender": "Male",
+	"hair": "none",
+	"height": "8'5",
+	"name": "Azog",
+	"race": "Orcs",
+	"realm": "Moria,Mount Gundabad",
+	"spouse": null
+}, {
+	"birth": "FA 214",
+	"death": "FA 473",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Azaghâl",
+	"race": "Dwarves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "SA 395",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Axantur",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aulë",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "Yavanna"
+}, {
+	"birth": "SA 213",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aulendil (Vardamir's son)",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 977",
+	"death": "TA 1226",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Atanatar II",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 480",
+	"death": "TA 748",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Atanatar I",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "After ,SA 61",
+	"death": "Early ,Second Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Atanalcar",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Possible unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Asgon",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 241",
+	"death": "FO 121",
+	"gender": "Female",
+	"hair": "Black",
+	"height": null,
+	"name": "Arwen",
+	"race": "Half-elven,Men",
+	"realm": "Reunited Kingdom",
+	"spouse": "Aragorn II Elessar"
+}, {
+	"birth": "TA 1633",
+	"death": "TA 1813",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arveleg II",
+	"race": "Men",
+	"realm": "Arthedain,Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1309",
+	"death": "TA 1409",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arveleg I",
+	"race": "Men",
+	"realm": "Arnor,Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1553",
+	"death": "TA 1743",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arvegil",
+	"race": "Men",
+	"realm": "Arthedain,Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1864",
+	"death": "TA 1975",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arvedui",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Fíriel"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 460",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arthad",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Artamir",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arminas",
+	"race": "Elves",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Before the creation of ,Arda",
+	"death": "Immortal",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Arien",
+	"race": "Ainur",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2757",
+	"death": "TA 2912",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Argonui",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Years of the Trees",
+	"death": "YT 1500, or ,FA 1 ,Battle of the Lammoth",
+	"gender": "Male",
+	"hair": "Possibly dark",
+	"height": "Tall",
+	"name": "Argon",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 1473",
+	"death": "TA 1670",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Argeleb II",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1226",
+	"death": "TA 1356",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Argeleb I",
+	"race": "Men",
+	"realm": "Arthedain,Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT 1362",
+	"death": "FA 400",
+	"gender": "Female",
+	"hair": "Dark",
+	"height": "Tall",
+	"name": "Aredhel",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Eöl"
+}, {
+	"birth": "SA 562",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ardamir (son of Axantur)",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "After ,TA 1684",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arciryas",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2497",
+	"death": "TA 2654",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aravorn",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2156",
+	"death": "TA 2319",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aravir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1711",
+	"death": "TA 1891",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Araval",
+	"race": "Men",
+	"realm": "Arthedain,Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2873",
+	"death": "TA 2933",
+	"gender": "Male",
+	"hair": "Dark (film)",
+	"height": null,
+	"name": "Arathorn II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Gilraen"
+}, {
+	"birth": "TA 2693",
+	"death": "TA 2848",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arathorn I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 3339",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aratan",
+	"race": "Men",
+	"realm": "TA 2",
+	"spouse": "Unknown, possibly known"
+}, {
+	"birth": "TA 2628",
+	"death": "TA 2784",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arassuil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1391",
+	"death": "TA 1589",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Araphor",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 185",
+	"death": "TA 435",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arantar",
+	"race": "Men",
+	"realm": "Arnor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1789",
+	"death": "TA 1964",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Araphant",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aranwë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2084",
+	"death": "TA 2247",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aranuir",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1938",
+	"death": "TA 2106",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aranarth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2012",
+	"death": "TA 2177",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arahael",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2563",
+	"death": "TA 2719",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arahad II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2365",
+	"death": "TA 2523",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Arahad I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2431",
+	"death": "TA 2588",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aragost",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "March 1 ,2931",
+	"death": "FO 120",
+	"gender": "Male",
+	"hair": "Dark",
+	"height": "198cm (6'6\")",
+	"name": "Aragorn II Elessar",
+	"race": "Men",
+	"realm": "Reunited Kingdom,Arnor,Gondor",
+	"spouse": "Arwen"
+}, {
+	"birth": "TA 2227",
+	"death": "TA 2327",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aragorn I",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2296",
+	"death": "TA 2455",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Araglas",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 2820",
+	"death": "TA 2930",
+	"gender": "Male",
+	"hair": "Dark, then grey (film)",
+	"height": null,
+	"name": "Arador",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "SA 2798",
+	"death": "SA 3033",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Ar-Zimrathôn",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Mid-,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Angamaitë",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "FA 440",
+	"death": "FA 489",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Andróg",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "FA 361",
+	"death": "FA 455",
+	"gender": "Female",
+	"hair": "Dark brown",
+	"height": null,
+	"name": "Andreth",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Loved ,Aegnor, but they never married"
+}, {
+	"birth": "Possibly before the Creation of Arda",
+	"death": "FA 587",
+	"gender": "Male",
+	"hair": null,
+	"height": "As tall as a mountain",
+	"name": "Ancalagon",
+	"race": "Dragons",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Late ,Third Age",
+	"death": null,
+	"gender": "Male",
+	"hair": "Dark",
+	"height": null,
+	"name": "Anborn",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "TA 136",
+	"death": "TA 411",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Anardil",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Anairë",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Fingolfin"
+}, {
+	"birth": "TA 2994",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Amrothos",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Andvír",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": "TA 1981",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Amroth",
+	"race": "Elves",
+	"realm": "Lórien",
+	"spouse": "Nimrodel"
+}, {
+	"birth": "Years of the Trees",
+	"death": "YT 1497 ,Losgar",
+	"gender": "Male",
+	"hair": "Dark red",
+	"height": null,
+	"name": "Amrod",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "Years of the Trees",
+	"death": "FA 538",
+	"gender": "Male",
+	"hair": "Dark red",
+	"height": null,
+	"name": "Amras",
+	"race": "Elf",
+	"realm": "Estolad",
+	"spouse": "None"
+}, {
+	"birth": "TA 726",
+	"death": "TA 946",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Amlaith",
+	"race": "Men",
+	"realm": "Arthedain",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Amlach",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Sometime during ,Years of the Trees, or the ,First Age",
+	"death": "SA 3434",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Amdír",
+	"race": "Elves",
+	"realm": "Lórien",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "YT",
+	"death": "Still alive",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Amarië",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Loved ,Finrod, but it is unknown whether they married"
+}, {
+	"birth": "Late ,Second Age",
+	"death": "Sailed West either SA 3310 fate unknown",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Amandil",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 3017",
+	"death": "FO 95",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Alphros",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Between ,SA 700, and ,SA 750",
+	"death": "Early ,Second Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Almiel",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Between ,SA 700, and ,SA 750",
+	"death": "Early ,Second Age",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Ailinel",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Orchaldor"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Almarian",
+	"race": "Men",
+	"realm": "Númenor",
+	"spouse": "Tar-Meneldur"
+}, {
+	"birth": "Late ,First Age",
+	"death": "FA 489",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Algund",
+	"race": "Men",
+	"realm": null,
+	"spouse": "None known"
+}, {
+	"birth": "TA 2544",
+	"death": "TA 2645",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aldor",
+	"race": "Men",
+	"realm": "Rohan",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "TA 1330",
+	"death": "TA 1540",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aldamir",
+	"race": "Men",
+	"realm": "Gondor",
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before the creation of Arda",
+	"death": null,
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Alatar",
+	"race": "Ainur,Maiar",
+	"realm": null,
+	"spouse": "None"
+}, {
+	"birth": "TA 2827",
+	"death": "TA 2932",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Aglahad",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Aghan",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Agathor",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "Mid ,First Age",
+	"death": "FA 495",
+	"gender": "Female",
+	"hair": null,
+	"height": null,
+	"name": "Aerin",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Brodda"
+}, {
+	"birth": null,
+	"death": null,
+	"gender": null,
+	"hair": null,
+	"height": null,
+	"name": "Aerandir",
+	"race": null,
+	"realm": null,
+	"spouse": null
+}, {
+	"birth": "YT during the ,Noontide of Valinor",
+	"death": "FA 455",
+	"gender": "Male",
+	"hair": "Golden",
+	"height": null,
+	"name": "Aegnor",
+	"race": "Elves",
+	"realm": null,
+	"spouse": "Loved ,Andreth but remained unmarried"
+}, {
+	"birth": "TA 2917",
+	"death": "TA 3010",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Adrahil II",
+	"race": "Men",
+	"realm": null,
+	"spouse": "Unnamed wife"
+}, {
+	"birth": "Before ,TA 1944",
+	"death": "Late ,Third Age",
+	"gender": "Male",
+	"hair": null,
+	"height": null,
+	"name": "Adrahil I",
+	"race": "Men",
+	"realm": null,
+	"spouse": null
+}]
